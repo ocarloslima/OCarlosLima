@@ -1,8 +1,8 @@
 ## Olá, meu nome é Carlos Eduardo e sou um aprendiz Full-Stack
 
 <div alight="center">
-  <img height="160em" src="https://github-readme-stats-ocarloslima.vercel.app//api?username=ocarloslima&show_icons=true&theme=synthwave"/>
-  <img align="right" height="160em" src="https://github-readme-stats-ocarloslima.vercel.app//api/top-langs/?username=ocarloslima&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="157em" src="https://github-readme-stats-ocarloslima.vercel.app//api?username=ocarloslima&show_icons=true&theme=synthwave"/>
+  <img align="right" height="157em" src="https://github-readme-stats-ocarloslima.vercel.app//api/top-langs/?username=ocarloslima&layout=compact&langs_count=16&theme=synthwave"/>
 <div>
 
 <div style="display: inline-block" align="center"> <br>
