@@ -1,4 +1,4 @@
-## Olá, meu nome é Carlos Eduardo e sou um aprendiz Full-Stack
+<h1 align="center">Olá, meu nome é Carlos Eduardo e sou um aprendiz Full-Stack</h1>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ocarloslima&theme=radical&mode=weekly" />
@@ -11,7 +11,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
   
   <h2>Redes</h2>
   <a href="https://www.instagram.com/olimaandrade/" target="_blank">
