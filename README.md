@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Carlos Eduardo e sou um aprendiz Full-Stack</h1>
+<h1 align="center">Olá, meu nome é Carlos Eduardo e sou um programador Full-Stack</h1>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ocarloslima&theme=radical&mode=weekly" />
@@ -13,6 +13,9 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <h2>Redes</h2>
+  <a href="https://api.whatsapp.com/send?phone=86995858589">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
   <a href="https://www.instagram.com/olimaandrade/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
