@@ -2,7 +2,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ocarloslima&theme=radical&mode=weekly" />
-<img width=46.4% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ocarloslima&show_icons=true&theme=radical&layout=compact" />
+<img width=38% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ocarloslima&show_icons=true&theme=radical&layout=compact" />
  </div>
 
 <div style="display: inline-block" align="center"> <br>
