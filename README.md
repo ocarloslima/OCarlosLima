@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Carlos Eduardo e sou um programador Full-Stack</h1>
+<h1 align="center">Olá, meu nome é Carlos Eduardo e sou um programador Front-end</h1>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ocarloslima&theme=radical&mode=weekly" />
